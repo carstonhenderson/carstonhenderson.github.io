@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+$theme-colors: (
+  "primary": #5245ed,
+  "danger": #ed6168,
+  "info": #1ea8df,
+  "secondary": #353b49,
+  "success": #49cec1
+);
+
+$font-family-sans-serif: 'Montserrat', sans-serif;
+
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
